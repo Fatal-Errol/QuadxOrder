@@ -3,8 +3,8 @@
     "type":         "library",
     "description":  "This is a prototype designed to fetch and display the orders data provided by QuadX API.",
     "keywords":     ["quadx", "prototype", "order"],
-    "homepage":     "https://github.com/Fatal-Errol",
-    "license":      "proprietary",
+    "homepage":     "https://github.com/Fatal-Errol/QuadxOrder",
+    "license":      "unlicensed",
     "authors": [
         {
             "name": "Errol A. Zuñiga Jr.",
@@ -24,9 +24,9 @@
     },
 
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "QuadxOrder\\": "src/",
-            "QuadxModule\\Mvc": "module/Mvc/src/"
+            "QuadxModule\\Mvc\\": "module/Mvc/src/"
         }
     }
 

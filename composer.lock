@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "815dc7aa5faff223653f0bce100f2bcb",
+    "hash": "f57f6869a81c350e60f6663833aaadb3",
+    "content-hash": "902301cfa46dac13f1d2cd7e3d83c9e1",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -276,7 +277,7 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
-            "time": "2016-02-11T07:05:27+00:00"
+            "time": "2016-02-11 07:05:27"
         }
     ],
     "packages-dev": [],
