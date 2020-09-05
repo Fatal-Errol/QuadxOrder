@@ -3,7 +3,7 @@ Fatal-Errol/QuadxOrder
 
 Created by Errol A. Zuñiga Jr.
 
-Hands on exam for the Senior Software Engineer Job Application at QuadX
+Hands-on exam for the Senior Software Engineer Job Application at QuadX
 
 Introduction
 ------------
